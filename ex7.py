@@ -1,4 +1,4 @@
-# Excercise for Programing 
+# Exercise for Programmer 
 # Ex 7
 
 # OUTPUT example 
